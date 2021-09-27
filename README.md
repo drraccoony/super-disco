@@ -3,6 +3,8 @@
 
 ---
 
+Takes user input, stores to `localStorage`. No external DB needed. Lightweight and simple to use.
+
 ![Application Preview](application.png?raw=true)
 
 ## Overview
